@@ -1,6 +1,6 @@
 # St. Elizabeth Catholic Hospital — Next.js Website
 
-A fully redesigned, production-ready Next.js 14 website for **St. Elizabeth Catholic Hospital (SECH)**, Duayaw Nkwanta, Ghana.
+A fully redesigned, production-ready Next.js 14 website for **St. Elizabeth Catholic Hospital (SECH)**, Hwidiem, Ghana.
 
 ---
 
@@ -21,6 +21,8 @@ A fully redesigned, production-ready Next.js 14 website for **St. Elizabeth Cath
 ```
 src/
 ├── app/
+|   ├── admin
+|   |   ├──
 │   ├── layout.tsx            # Root layout — Navbar, Footer, Modal provider
 │   ├── page.tsx              # Home page
 │   ├── not-found.tsx         # 404 page
