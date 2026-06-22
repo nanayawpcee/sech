@@ -89,7 +89,7 @@ export default function SettingsPage() {
                     { label: "Phone",          defaultValue: "+233 322 298 428" },
                     { label: "Email",          defaultValue: "info@sech-gh.org" },
                     { label: "Website",        defaultValue: "https://sech-gh.org" },
-                    { label: "Address",        defaultValue: "Duayaw Nkwanta, Tano North District" },
+                    { label: "Address",        defaultValue: "Hwidiem, Asutifi South District" },
                     { label: "Region",         defaultValue: "Brong-Ahafo Region" },
                     { label: "Country",        defaultValue: "Ghana" },
                   ].map(f => (
